@@ -1,0 +1,13 @@
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\bin\Debug\TrasferenciaDados.dll.config
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\bin\Debug\TrasferenciaDados.dll
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\bin\Debug\TrasferenciaDados.pdb
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.csprojAssemblyReference.cache
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.Properties.Resources.resources
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.csproj.GenerateResource.cache
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.csproj.CopyComplete
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.dll
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\TrasferenciaDados\obj\Debug\TrasferenciaDados.pdb

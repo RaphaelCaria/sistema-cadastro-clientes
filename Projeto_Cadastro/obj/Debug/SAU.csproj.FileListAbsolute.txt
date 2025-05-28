@@ -1,0 +1,17 @@
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\Projeto_Cadastro.exe.config
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\Projeto_Cadastro.exe
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\Projeto_Cadastro.pdb
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\TrasferenciaDados.dll
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\AcessoBanco.dll
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\TrasferenciaDados.pdb
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\TrasferenciaDados.dll.config
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\AcessoBanco.pdb
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\bin\Debug\AcessoBanco.dll.config
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\SAU.csprojAssemblyReference.cache
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.FrmCadastro.resources
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.Properties.Resources.resources
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\SAU.csproj.GenerateResource.cache
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\SAU.csproj.CoreCompileInputs.cache
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\SAU.csproj.CopyComplete
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.exe
+C:\Users\raphael.stcaria\source\repos\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.pdb
